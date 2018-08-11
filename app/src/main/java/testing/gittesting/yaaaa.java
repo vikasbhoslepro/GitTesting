@@ -5,5 +5,5 @@ package testing.gittesting;
  */
 
 public class yaaaa {
-    String dd;
+    String dd="vikas Bhosle yes from website";
 }
